@@ -1,0 +1,10 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>160</x><y>100</y><w>100</w><h>140</h></coordinates><panel_attributes>Person
+--
+Vorname
+Nachname
+Geburtsname
+Geschlecht
+Geburtsdatum
+Geburtsort</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>50</y><w>90</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+m1=Vater 0..1</panel_attributes><additional_attributes>10;50;10;10;70;10;70;100;20;100</additional_attributes></element><element><id>Relation</id><coordinates><x>110</x><y>50</y><w>140</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+m1=Mutter 0..1</panel_attributes><additional_attributes>60;50;60;10;10;10;10;100;50;100</additional_attributes></element></diagram>
