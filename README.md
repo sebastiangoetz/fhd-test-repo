@@ -7,3 +7,5 @@ Innerhalb von Visual Studio Code
 Oder direkt innerhalb von GitHub
 
 Testkonflikt
+
+Anderer Konflikt
